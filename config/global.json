@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "FunWithFriends": {
+            "applicationId": "FbOYy3StrVkXh0NeAw1bF1WuXujVM0k7MHEiDNXG", 
+            "masterKey": "TzDeuc75XaYAgvc5qDgIXuY4oWHc7dOyR0jcpn3l"
+        }, 
+        "_default": {
+            "link": "FunWithFriends"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.16"
+    }
+}
